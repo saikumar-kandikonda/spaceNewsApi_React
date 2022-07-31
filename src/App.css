@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.article {
+  cursor: pointer;
+}
+.searchedGamesList {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.searchGame {
+  margin: 10px;
+}
+
+img{
+  height: 600px;
+  width: 500px;
+}
